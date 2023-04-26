@@ -12,16 +12,21 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
+              <source srcset="images/profile.ico" media="(min-width: 600px)">
               <img src="images/profile.png" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Rohin Sood</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Hello, I am Rohin Sood & I LOVE coding!
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://rohinsood.dev/" class="button">
+                Link to my website
+              </a>
+            </div>
+            <div>
+              This is a well!
             </div>
           </article>
         </main>
