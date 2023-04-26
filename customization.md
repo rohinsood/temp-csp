@@ -25,8 +25,8 @@
                 Link to my website
               </a>
             </div>
-            <div>
-              This is a well!
+            <div class="well">
+              I hate paper 😩
             </div>
           </article>
         </main>
